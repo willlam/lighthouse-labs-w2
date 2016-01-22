@@ -49,7 +49,7 @@
 	CGPoint velocity = [panGesture velocityInView:self.mainView];
 	NSLog((@))
 	
-	[panGesture velocityInView:<#(nullable UIView *)#>]
+	[panGesture velocity]
 
 }
 
